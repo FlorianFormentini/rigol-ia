@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - florian
 
 jobs:
   build-and-deploy:
